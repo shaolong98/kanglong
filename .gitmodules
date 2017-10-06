@@ -1,0 +1,4 @@
+[submodule "kanglong1"]
+	path = kanglongg1.io
+	url = https://github.com/shaolong98/kanglong1.git
+	branch = master
