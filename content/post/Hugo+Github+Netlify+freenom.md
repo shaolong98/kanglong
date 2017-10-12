@@ -138,7 +138,7 @@ dns4.p08.nsone.net<br/>
 
 	git add .
 	git commit -m‘xxxxxx’ //引号里面就是个备注，随便填点什么，便于查看提交历史
-	git push
+	git push origin master
 	
 #####  齐活儿！维护一个自己的blog 就这么简单！再不懂就问度娘和谷哥，一直写到大半夜，哥也累了。。。
 
