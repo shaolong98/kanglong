@@ -2,8 +2,8 @@
 title = "第一课 康龙移动公卫系统产品简介"
 draft = "false"
 description = "康龙公共公卫系统由北京康龙科技有限公司开发。。。"
-categories = ["作业1"]
-date = "2017-09-27"
+categories = ["lesson1"]
+date = "2017-10-07"
 banner = "/banner.png"
 +++
 
